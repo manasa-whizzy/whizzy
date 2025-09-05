@@ -211,7 +211,7 @@ bootstrap.min.css:5
 	width: 100%;
   	padding-top: 35vh;
   	text-align: center;
-  	background-image: url(../img/banner_bg.jpg);
+  	background-image: url(../img/bg1.png);
   	vertical-align: middle;
 }
 
@@ -237,9 +237,9 @@ bootstrap.min.css:5
 }
 
 .baner-content .text-content p {
-	color: #fff;
-	font-size: 14px;
-	line-height: 24px;
+	color: yellow;
+	font-size: 20px;
+	line-height: 30px;
 	padding: 0px 25%;
 }
 
